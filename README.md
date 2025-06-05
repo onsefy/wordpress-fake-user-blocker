@@ -24,7 +24,7 @@ You can install the plugin in two ways:
 
 #### Option 1: Manual Installation (ZIP File)
 
-1. [Download the plugin ZIP file](#) to your computer.
+1. [Download the plugin ZIP file](https://github.com/onsefy/wordpress-fake-user-blocker/releases/download/v1.0.0/onsefy-fraud-user-blocker.zip) to your computer.
 2. In your WordPress dashboard, go to **Plugins > Add New > Upload Plugin**.
 3. Click **Choose File**, select the downloaded `.zip` file, then click **Install Now**.
 4. After installation, click **Activate Plugin**.
